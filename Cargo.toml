@@ -1,0 +1,9 @@
+[package]
+name = "rust_stark"
+version = "0.1.0"
+authors = ["jason <jvranek@ucsc.edu>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
